@@ -10,7 +10,7 @@ El entorno de simulación puede ejecutarse localmente o dentro de un contenedor 
 - `two_joint_robot_custom.urdf`: modelo del robot.
 - `Dockerfile`: configuración para ejecutar el simulador en Docker.
 - `grabacion.mkv`: archivo de video que muestra el funcionamiento del simulador.
-
+Esto se usa para que funcione de la mejor manera al momento de hacer la simulacion en el pybullet
 ## Cómo ver la simulación
 
 Para observar el movimiento del brazo robótico, dirígete al archivo `mkv` dentro de este repositorio.  
